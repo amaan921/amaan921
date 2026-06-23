@@ -1,8 +1,22 @@
-# Hi, I'm Amaan 👋
+# Hi, I'm Mohd Amaan Khan 👋
 
-**Software Engineer | Full-Stack Developer | AI/ML Enthusiast**
+**Software Engineer passionate about building scalable web applications, backend systems, and AI-powered products.**
 
-I'm a passionate developer building production-ready applications with **React, Node.js, FastAPI, and Machine Learning**. I focus on creating scalable, well-documented, and user-centric solutions.
+I have experience developing **production-ready applications** using React.js, Node.js, Python, FastAPI, and modern AI APIs. Currently focused on **Full-Stack Engineering** and **Applied AI**.
+
+---
+
+## 💼 Experience
+
+### MERN Stack Developer Intern — InnovQuant Solutions
+- Developed full-stack applications using React.js, Node.js, FastAPI, and Django
+- Built REST APIs and backend modules for production systems
+- Automated workflows and improved operational efficiency
+
+### Data Analytics Intern — CRON AI
+- Worked on Python-based data pipelines for autonomous vehicle AI systems
+- Processed large-scale datasets using Pandas and NumPy
+- Automated data validation and preprocessing workflows
 
 ---
 
@@ -35,13 +49,19 @@ I'm a passionate developer building production-ready applications with **React, 
 Full-stack inventory management dashboard with real-time data sync and business intelligence.
 - **Tech:** React + Vite, FastAPI, SQLite
 - **Features:** CRUD operations, inventory tracking, sales dashboard, filtering & search
-- **Impact:** 50+ line RESTful API, data consistency logic, production deployment
+- **Impact:**
+  - Built production-ready inventory management workflows
+  - Designed REST APIs supporting inventory, billing, and reporting modules
+  - Implemented role-based access control and secure authentication
 
 ### 🤖 **[Interview AI](https://github.com/amaan921/Interview_AI_APP)** — AI-Powered Mock Interview Platform
 Smart interview prep with AI evaluation, voice input, and progress tracking.
 - **Tech:** React 19, Express.js, MongoDB, Firebase Auth, OpenRouter API
 - **Features:** Resume parsing, voice recognition, AI scoring, credit system, interview history
-- **Highlights:** Full authentication flow, real-time evaluation, PDF processing
+- **Highlights:**
+  - Integrated LLM APIs for interview generation and evaluation
+  - Implemented resume parsing and voice-based interactions
+  - Built complete authentication and credit management system
 
 ### 🎵 **[Moody.fy](https://github.com/amaan921/Moody_fy)** — Emotion-Based Music Recommendation
 ML-powered music recommendation system that adapts to user emotions.
@@ -57,7 +77,19 @@ Collaborative filtering recommendation engine for movie discovery.
 
 ## 📈 GitHub Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=amaan921&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaan921&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan921&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🔍 Areas of Interest
+
+- Backend Engineering & System Design
+- Distributed Systems & Scalability
+- REST API Design & Database Optimization
+- AI Application Development
+- Production-Grade Software Engineering
 
 ---
 
@@ -70,21 +102,21 @@ Collaborative filtering recommendation engine for movie discovery.
 
 ---
 
-## 💼 Let's Connect
+## 🚀 Current Focus
 
-📧 **Email:** [Your Email]  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/amaan921)  
-🌐 **Portfolio:** [Your Website]  
-💻 **GitHub:** [@amaan921](https://github.com/amaan921)
+- Building scalable backend systems
+- Exploring AI-powered applications
+- Learning advanced system design
+- Contributing to production-grade projects
 
 ---
 
-## 🎓 Open to
+## 🌐 Connect With Me
 
-- **Full-Stack Developer** roles
-- **Backend Engineer** positions
-- **AI/ML Engineer** opportunities
-- **Freelance Projects** (React, Python, APIs)
+- **Portfolio:** https://amaankhan.co.in
+- **LinkedIn:** https://linkedin.com/in/mohd-amaan-khan-dev
+- **Email:** amaan2982@gmail.com
+- **GitHub:** [@amaan921](https://github.com/amaan921)
 
 ---
 
