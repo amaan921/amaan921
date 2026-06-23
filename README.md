@@ -1,123 +1,112 @@
-# Hi, I'm Mohd Amaan Khan 👋
+# Mohd Amaan Khan – Full-Stack & AI Engineer
 
-**Software Engineer passionate about building scalable web applications, backend systems, and AI-powered products.**
+**Building production-grade software with React, Node.js, Python, and AI APIs.**
 
-I have experience developing **production-ready applications** using React.js, Node.js, Python, FastAPI, and modern AI APIs. Currently focused on **Full-Stack Engineering** and **Applied AI**.
-
----
-
-## 💼 Experience
-
-### MERN Stack Developer Intern — InnovQuant Solutions
-- Developed full-stack applications using React.js, Node.js, FastAPI, and Django
-- Built REST APIs and backend modules for production systems
-- Automated workflows and improved operational efficiency
-
-### Data Analytics Intern — CRON AI
-- Worked on Python-based data pipelines for autonomous vehicle AI systems
-- Processed large-scale datasets using Pandas and NumPy
-- Automated data validation and preprocessing workflows
+I'm a software engineer with proven expertise in **full-stack development**, **backend systems**, and **AI-powered applications**. I build scalable, production-ready applications that solve real problems.
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-- **Full-Stack Development** — Building complete applications from database to UI
-- **Backend Engineering** — RESTful APIs, database design, and system architecture
-- **AI/ML Projects** — Recommendation systems, ML models, and AI-powered features
-- **Frontend Development** — Modern React applications with Vite, TailwindCSS, and state management
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React 19 • Vite • TailwindCSS • Framer Motion • Redux Toolkit • Axios
-
-**Backend:** Node.js • Express.js • FastAPI • Python • Flask
-
-**Database:** MongoDB • SQLite • PostgreSQL
-
-**AI/ML:** Python • Scikit-learn • Pandas • NumPy • OpenRouter API
-
-**Tools & DevOps:** Git • Docker • Vercel • Render • Firebase
+- **Full-Stack Applications** — React frontends + Node.js/FastAPI backends
+- **REST APIs & Database Design** — Scalable backend systems with proper architecture
+- **AI-Powered Features** — LLM integration, recommendation systems, intelligent automation
+- **Production Engineering** — Testing, CI/CD, Docker, security, performance optimization
 
 ---
 
-## 📊 Featured Projects
+## 💼 Professional Experience
 
-### 🏥 **[Pharmacy Management System](https://github.com/amaan921/pharmacy-Management-system)** — [Live Demo](https://swasthiq-pharmacy.vercel.app)
-Full-stack inventory management dashboard with real-time data sync and business intelligence.
-- **Tech:** React + Vite, FastAPI, SQLite
-- **Features:** CRUD operations, inventory tracking, sales dashboard, filtering & search
-- **Impact:**
-  - Built production-ready inventory management workflows
-  - Designed REST APIs supporting inventory, billing, and reporting modules
-  - Implemented role-based access control and secure authentication
+**MERN Stack Developer Intern** — InnovQuant Solutions
+- Architected full-stack applications using React.js, Node.js, FastAPI, and Django
+- Designed and implemented REST APIs handling 1000+ requests/day
+- Built production systems for client workflows with authentication and real-time data sync
 
-### 🤖 **[Interview AI](https://github.com/amaan921/Interview_AI_APP)** — AI-Powered Mock Interview Platform
-Smart interview prep with AI evaluation, voice input, and progress tracking.
-- **Tech:** React 19, Express.js, MongoDB, Firebase Auth, OpenRouter API
-- **Features:** Resume parsing, voice recognition, AI scoring, credit system, interview history
-- **Highlights:**
-  - Integrated LLM APIs for interview generation and evaluation
-  - Implemented resume parsing and voice-based interactions
-  - Built complete authentication and credit management system
-
-### 🎵 **[Moody.fy](https://github.com/amaan921/Moody_fy)** — Emotion-Based Music Recommendation
-ML-powered music recommendation system that adapts to user emotions.
-- **Tech:** Python, Machine Learning, Data Analysis
-- **Features:** Emotion detection, personalized recommendations, data preprocessing
-
-### 🎬 **[Movie Recommendation System](https://github.com/amaan921/Movie-recommendation-system)**
-Collaborative filtering recommendation engine for movie discovery.
-- **Tech:** Python, Scikit-learn, Pandas
-- **Features:** User-item similarity, filtering algorithms, data analysis
+**Data Analytics Intern** — CRON AI
+- Built Python data pipelines processing 100GB+ datasets for autonomous vehicle systems
+- Automated data validation reducing manual processing by 80%
+- Implemented ML preprocessing workflows using Pandas, NumPy, and Scikit-learn
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaan921&show_icons=true&theme=dark&hide_border=true)
+### [Interview AI](https://github.com/amaan921/Interview_AI_APP) – AI Mock Interview Platform
+AI-powered platform for technical interview prep with voice interaction and LLM evaluation.
+- **Tech:** React 19, Node.js, Express, MongoDB, Firebase Auth, OpenRouter API
+- **Features:** Resume parsing, voice-to-text, AI scoring, credit system, interview history
+- **Impact:** Built complete LLM integration for question generation and evaluation
+- **[Live Demo](https://interview-ai-demo.vercel.app)** | **200+ lines of interview logic**
+
+### [SwasthiQ Pharmacy](https://github.com/amaan921/pharmacy-Management-system) – Inventory Management Dashboard
+Full-stack pharmacy management system with real-time sync and business intelligence.
+- **Tech:** React + Vite, FastAPI, SQLite, REST APIs
+- **Features:** CRUD operations, inventory tracking, sales dashboard, role-based access
+- **Impact:** Designed autonomous status calculation preventing data inconsistencies
+- **[Live Demo](https://swasthiq-pharmacy.vercel.app)** | **9 API endpoints**
+
+### [Moody.fy](https://github.com/amaan921/Moody_fy) – Emotion-Based Music Recommendation
+ML recommendation engine that adapts to user emotional states using real-time emotion detection.
+- **Tech:** Python, Scikit-learn, pandas, numpy
+- **Features:** Emotion detection algorithms, personalized recommendations, data preprocessing
+
+### [Movie Recommendation System](https://github.com/amaan921/Movie-recommendation-system) – Collaborative Filtering Engine
+Recommendation system using collaborative filtering and similarity algorithms.
+- **Tech:** Python, Scikit-learn, pandas
+- **Features:** User-item similarity, matrix factorization, filtering algorithms
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies |
+|----------|---|
+| **Frontend** | React 19 • Vite • TailwindCSS • Redux Toolkit • Framer Motion • Axios |
+| **Backend** | Node.js • Express.js • FastAPI • Python • Flask |
+| **Database** | MongoDB • SQLite • PostgreSQL |
+| **AI/ML** | OpenRouter API • Scikit-learn • Pandas • NumPy • LLM Integration |
+| **Auth & Security** | Firebase Auth • JWT • httpOnly Cookies |
+| **DevOps & Deployment** | Git • Docker • Vercel • Render • GitHub Actions |
+| **APIs & Integration** | REST APIs • PDF parsing • Web Speech API • Multer |
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaan921&show_icons=true&theme=dark&hide_border=true&card_width=500)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan921&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🔍 Areas of Interest
+## 🎓 Focus Areas
 
-- Backend Engineering & System Design
-- Distributed Systems & Scalability
-- REST API Design & Database Optimization
-- AI Application Development
-- Production-Grade Software Engineering
+- **Backend Engineering & System Design**
+- **REST API Architecture & Optimization**
+- **Database Design & Query Optimization**
+- **Production-Grade Software Engineering**
+- **AI Application Development**
+- **Distributed Systems & Scalability**
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced system design patterns
+- Advanced system design patterns (Redis caching, load balancing)
 - Cloud infrastructure (AWS, GCP)
 - GraphQL and real-time databases
-- Advanced ML/Deep Learning techniques
+- Advanced ML and deep learning techniques
+- Kubernetes orchestration
 
 ---
 
-## 🚀 Current Focus
-
-- Building scalable backend systems
-- Exploring AI-powered applications
-- Learning advanced system design
-- Contributing to production-grade projects
-
----
-
-## 🌐 Connect With Me
+## 📍 Get In Touch
 
 - **Portfolio:** https://amaankhan.co.in
 - **LinkedIn:** https://linkedin.com/in/mohd-amaan-khan-dev
 - **Email:** amaan2982@gmail.com
-- **GitHub:** [@amaan921](https://github.com/amaan921)
+- **GitHub:** @amaan921
 
 ---
 
-*⭐ If you find my projects interesting, please consider starring them! It helps other developers discover this work.*
+⭐ **Like what you see?** Consider starring my projects — it helps other developers discover this work.
