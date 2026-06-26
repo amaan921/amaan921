@@ -77,18 +77,6 @@ Built Python pipelines processing 100GB+ datasets for autonomous vehicle systems
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaan921&show_icons=true&theme=default&hide_border=true&card_width=500&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan921&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## Currently learning
 
 `Redis caching` · `AWS / GCP` · `GraphQL` · `System design` · `Kubernetes`
