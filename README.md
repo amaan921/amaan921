@@ -27,7 +27,7 @@ Upload your resume + a job description → get role-specific interview questions
 
 **The hard part:** Getting consistent AI scoring across different answer styles. Solved with structured evaluation prompts and a credit-based rate limiting system.
 
-[Live Demo →](https://interview-ai-demo.vercel.app)
+[Live Demo →](https://interview-ai-app-ebon.vercel.app/auth)
 
 ---
 
